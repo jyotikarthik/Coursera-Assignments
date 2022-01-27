@@ -1,0 +1,11 @@
+h2{
+    background-color: pink;
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+  width: 320px;
+  padding: 10px;
+  border: 2px black;
+  margin: 0;
+}
